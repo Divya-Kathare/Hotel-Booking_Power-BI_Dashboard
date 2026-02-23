@@ -1,0 +1,133 @@
+city,hotel_name,price,rating,price_category,rating_bucket,price_per_rating
+Mumbai,Hilton Garden Inn Mumbai International Airport,10007.0,8.3,Premium,Medium,1205.6626506024095
+Mumbai,Fairmont Mumbai,27500.0,9.0,Premium,High,3055.5555555555557
+Mumbai,Hotel Bawa International,6750.0,7.6,Mid-range,Medium,888.1578947368422
+Mumbai,Hilton Mumbai International Airport Hotel,19700.0,8.7,Premium,High,2264.3678160919544
+Mumbai,Ginger Mumbai Airport,7999.0,7.3,Premium,Medium,1095.7534246575342
+Mumbai,"Indie Stays, BKC",8499.0,7.4,Premium,Medium,1148.5135135135135
+Mumbai,Ramada Plaza By Wyndham Palm Grove,10603.0,7.6,Premium,Medium,1395.1315789473686
+Mumbai,"The Fern Residency Mumbai, Mira Road, Series by Marriott",6250.0,8.2,Mid-range,Medium,762.1951219512196
+Mumbai,Taj Santacruz,20000.0,8.8,Premium,High,2272.7272727272725
+Mumbai,Trident Bandra Kurla,21500.0,9.0,Premium,High,2388.8888888888887
+Mumbai,Hotel Zara International,2398.0,7.0,Budget,Medium,342.57142857142856
+Mumbai,"Aurika, Mumbai International Airport - Luxury by Lemon Tree Hotels",11811.0,8.5,Premium,High,1389.5294117647059
+Mumbai,Fairfield by Marriott Mumbai International Airport,13499.0,8.4,Premium,Medium,1607.0238095238094
+Mumbai,The Resort,8279.0,8.2,Premium,Medium,1009.6341463414635
+Mumbai,"Zenith Homes - Premium Suites, near IIT Powai, Hiranandani & Mumbai Airport",4345.0,7.7,Mid-range,Medium,564.2857142857142
+Mumbai,ibis Mumbai BKC,8190.0,8.4,Premium,Medium,975.0
+Mumbai,FabHotel Royal International - Nr Mumbai International Airport,2850.0,7.1,Budget,Medium,401.40845070422534
+Mumbai,FabHotel Silver Lake,2385.0,6.8,Budget,Low,350.7352941176471
+Mumbai,FabHotel RK International - Nr Mumbai International Airport,2980.0,6.4,Budget,Low,465.625
+Mumbai,Four Seasons Hotel Mumbai,26000.0,8.8,Premium,High,2954.5454545454545
+Mumbai,"Grand Hotel Mumbai - Ballard Estate, Fort",8550.0,7.5,Premium,Medium,1140.0
+Mumbai,"ITC Grand Central, a Luxury Collection Hotel, Mumbai",22750.0,8.9,Premium,High,2556.179775280899
+Mumbai,ibis Mumbai Airport - An Accor Brand,9499.0,6.4,Premium,Low,1484.21875
+Mumbai,Chateau Windsor Hotel - Marine Drive,6750.0,7.8,Mid-range,Medium,865.3846153846154
+Mumbai,Taj Lands End,26462.0,8.2,Premium,Medium,3227.0731707317077
+Mumbai,Holiday Inn Mumbai International Airport by IHG,10886.0,8.4,Premium,Medium,1295.952380952381
+Mumbai,"Taj The Trees, Mumbai",16500.0,9.2,Premium,High,1793.4782608695652
+Delhi,Hotel ECG Grand Inn Unit By GK Group Near IGI Airport,1239.0,,Budget,No rating,
+Delhi,Hyatt Delhi Residences,45000.0,8.9,Premium,High,5056.179775280899
+Delhi,Hotel Chanchal Deluxe - New Delhi Train Station,1934.0,7.8,Budget,Medium,247.94871794871796
+Delhi,Hotel El De Olive Aero Suites Near Delhi IGI Airport,1627.0,9.2,Budget,High,176.84782608695653
+Delhi,"Hotel Krishna - By RCG Hotels, Centrally Located, New Delhi",2376.0,8.3,Budget,Medium,286.2650602409638
+Delhi,FairMount Plaza Inns Near International Airport,2799.0,8.6,Budget,High,325.4651162790698
+Delhi,Jyoti Mahal - An Award Winning Royal Heritage Hotel - Close to Connaught Place,5293.0,7.9,Mid-range,Medium,670.0
+Delhi,New Delhi YMCA Tourist Hostel,5160.0,7.6,Mid-range,Medium,678.9473684210527
+Delhi,The Prime Delhi,4455.0,8.0,Mid-range,Medium,556.875
+Delhi,Airport Hotel Grand,2183.0,8.0,Budget,Medium,272.875
+Delhi,BLESS INN - Near Connaught Place,3764.0,8.2,Mid-range,Medium,459.0243902439025
+Delhi,Hotel Star Villa - Front of NDLS Station & 1 Minute from Connaught Place & City Centre,3464.0,8.0,Mid-range,Medium,433.0
+Delhi,Hotel The Prithvi Near Delhi Airport With One Way Airport Transfar,4165.0,5.6,Mid-range,Low,743.75
+Delhi,Hotel Atlantis Continental,2029.0,8.1,Budget,Medium,250.49382716049385
+Delhi,Hotel Shri Vinayak in City Centre at New Delhi Railway Station-By RCG Hotels,1950.0,8.3,Budget,Medium,234.93975903614455
+Delhi,The Shanti Plaza - Traveler's choice awarded 2025,3360.0,8.2,Mid-range,Medium,409.75609756097566
+Delhi,Airport La Sapphire Hotel & Restaurant,3698.0,8.3,Mid-range,Medium,445.54216867469876
+Delhi,Hotel Baba Deluxe near New Delhi Railway Station and City Center -By RCG Hotels,2304.0,8.4,Budget,Medium,274.2857142857143
+Delhi,Hotel Panickers Residency - Near Ganga Ram & BLK Hospital - Karol Bagh,3280.0,8.4,Mid-range,Medium,390.4761904761905
+Delhi,99 Hotel AIRPORT Stay NEAR Delhi Airport WITH- Free Airport PICKUP,4643.0,8.5,Mid-range,High,546.2352941176471
+Delhi,Hotel Belwoods Near Delhi Airport,2079.0,8.8,Budget,High,236.24999999999997
+Delhi,"Hotel Bricks, Karol Bagh, New Delhi",2646.0,8.3,Budget,Medium,318.79518072289153
+Delhi,Hotel Almati Inn Near Delhi Airport - With Free Airport Pickup,6300.0,8.4,Mid-range,Medium,750.0
+Delhi,The Waves Hotel with Free Airport Pickup or Drop,3959.0,8.5,Mid-range,High,465.7647058823529
+Delhi,"Airport Le Premier, New Delhi",3659.0,8.4,Mid-range,Medium,435.5952380952381
+Delhi,The Iconic Hotel Delhi International Airport,2027.0,8.0,Budget,Medium,253.375
+Bangalore,FabHotel Royal N Comforts,1807.0,7.0,Budget,Medium,258.14285714285717
+Bangalore,Grand Mercure Bangalore - An Accor Brand,9500.0,8.6,Premium,High,1104.6511627906978
+Bangalore,The Chancery Pavilion,6000.0,7.9,Mid-range,Medium,759.493670886076
+Bangalore,Doubletree By Hilton Bengaluru Airport,10625.0,8.1,Premium,Medium,1311.7283950617284
+Bangalore,Holiday Inn Bengaluru Racecourse by IHG,9385.0,8.5,Premium,High,1104.1176470588234
+Bangalore,Marriott Executive Apartments Bengaluru UB City,12500.0,8.7,Premium,High,1436.7816091954023
+Bangalore,"Royal Orchid Central Bangalore, MG Road",5939.0,7.5,Mid-range,Medium,791.8666666666667
+Bangalore,"ITC Windsor, a Luxury Collection Hotel, Bengaluru",15000.0,8.7,Premium,High,1724.1379310344828
+Bangalore,Zipp Hotel Le Opera,2747.0,8.6,Budget,High,319.4186046511628
+Bangalore,Olive Hotel Palace Road by Embassy Group,2520.0,8.8,Budget,High,286.3636363636363
+Bangalore,Taj Yeshwantpur Bengaluru,12700.0,8.7,Premium,High,1459.7701149425288
+Bangalore,"ITC Gardenia, a Luxury Collection Hotel, Bengaluru",18705.0,8.9,Premium,High,2101.6853932584268
+Bangalore,ibis Bengaluru City Centre - An Accor Brand,4560.0,7.1,Mid-range,Medium,642.2535211267606
+Bangalore,The Oberoi Bengaluru,18000.0,9.4,Premium,High,1914.8936170212764
+Bangalore,Stone Hills,6175.0,8.3,Mid-range,Medium,743.9759036144578
+Bangalore,"Sliceinn Gulmohar- Near Kempegowda International Airport, Bengaluru",5695.0,7.8,Mid-range,Medium,730.1282051282052
+Bangalore,Olive Hotel Rajajinagar by Embassy Group,2321.0,9.0,Budget,High,257.8888888888889
+Bangalore,Olive Zip Domlur by Embassy Group,2283.0,8.5,Budget,High,268.5882352941176
+Bangalore,Olive Hotel MG Road Dunsvirk Inn by Embassy Group,3498.0,8.4,Mid-range,Medium,416.4285714285714
+Bangalore,Olive Hotel Millers Road by Embassy Group,2662.0,8.9,Budget,High,299.1011235955056
+Bangalore,Open Hotel by Olive - Moka,2487.0,8.8,Budget,High,282.6136363636363
+Bangalore,Olive Hotel Indiranagar 100Ft Road by Embassy Group,3407.0,7.8,Mid-range,Medium,436.7948717948718
+Bangalore,ZIPP Lite Frazer Town,1855.0,9.5,Budget,High,195.26315789473685
+Bangalore,Olive Zip Koramangala 4th Block by Embassy Group,2022.0,8.6,Budget,High,235.11627906976744
+Bangalore,Hyatt Centric MG Road Bangalore,15400.0,8.1,Premium,Medium,1901.2345679012346
+Bangalore,"The Fern Residency Bengaluru, Seshadripuram, Series by Marriott",4500.0,3.0,Mid-range,Low,1500.0
+Bangalore,Olive Hotel JP Nagar by Embassy Group,2394.0,8.4,Budget,Medium,285.0
+Bangalore,"Fortune Park JP Celestial, Bengaluru - Member ITC Hotels' Group",4750.0,7.1,Mid-range,Medium,669.0140845070423
+Goa,Home Of Gaia,1772.0,8.5,Budget,High,208.47058823529412
+Goa,Hotel Sea Sapphire,2800.0,8.9,Budget,High,314.6067415730337
+Goa,Zulu Land cottages - near Curlies beach shack and shiva valley - Anjuna beach,2929.0,7.3,Budget,Medium,401.2328767123288
+Goa,Hotel Pajaros Blu,5000.0,8.9,Mid-range,High,561.7977528089888
+Goa,"La Vera Boutique Hotel, Mandrem",3213.0,8.2,Mid-range,Medium,391.82926829268297
+Goa,Hotel The Calangute Imperials,2429.0,9.2,Budget,High,264.0217391304348
+Goa,"Maashpi Hotel & Resort, Candolim",4999.0,8.1,Mid-range,Medium,617.1604938271605
+Goa,Mistral Holidays Near Trinity Beach & Benaulim Beach,2700.0,8.7,Budget,High,310.3448275862069
+Goa,Hotel Sea Castle,4000.0,8.6,Mid-range,High,465.1162790697675
+Goa,Summit Calangute Resort & Spa,4017.0,8.1,Mid-range,Medium,495.9259259259259
+Goa,Sol De Goa,4500.0,7.9,Mid-range,Medium,569.620253164557
+Goa,Grand Continent Morjim,4899.0,7.6,Mid-range,Medium,644.6052631578948
+Goa,Viik wellness inn -3 Star Resort in Arambol Beach,2749.0,8.1,Budget,Medium,339.38271604938274
+Goa,Exotic star 1 BHK 2BHK Apartment,1848.0,7.3,Budget,Medium,253.15068493150685
+Goa,Red Thread Calangute,3750.0,7.7,Mid-range,Medium,487.012987012987
+Goa,Aaria Hills,3101.0,8.2,Mid-range,Medium,378.1707317073171
+Goa,BluO Amani Vagator - Boutique Hotel Goa,5171.0,8.6,Mid-range,High,601.2790697674419
+Goa,Meritas Grand Inn Calangute,5950.0,8.9,Mid-range,High,668.5393258426966
+Goa,The Goa Beach Resort - Best Selling Property in Goa,2250.0,7.2,Budget,Medium,312.5
+Goa,"Bliss By Stays, Calangute",4500.0,8.8,Mid-range,High,511.3636363636363
+Goa,"Verandah - A Beautiful Story, Near Anjuna Beach",3459.0,8.0,Mid-range,Medium,432.375
+Goa,Blu Missel By The River,5610.0,8.3,Mid-range,Medium,675.9036144578313
+Goa,"The Tanisi Resorts & Pool Villas, Candolim",8499.0,7.2,Premium,Medium,1180.4166666666667
+Goa,Meritas Auberge Calangute Goa,7904.0,8.7,Premium,High,908.5057471264369
+Goa,Moyrah By Greenpark,10170.0,9.2,Premium,High,1105.4347826086957
+Jaipur,Jwala Niketan - Central Jaipur,1260.0,8.3,Budget,Medium,151.80722891566265
+Jaipur,Raffles Jaipur,70000.0,9.0,Premium,High,7777.777777777777
+Jaipur,Hyatt Place Jaipur Malviya Nagar,8262.0,8.0,Premium,Medium,1032.75
+Jaipur,"ITC Rajputana, a Luxury Collection Hotel, Jaipur",19000.0,8.5,Premium,High,2235.294117647059
+Jaipur,Trim Boutique Parkota Haveli,3779.0,8.0,Mid-range,Medium,472.375
+Jaipur,Jaipur Hotel New - Heritage Hotel,2677.0,8.2,Budget,Medium,326.4634146341464
+Jaipur,Umaid Mahal - A Heritage Style Boutique Hotel,6892.0,8.5,Mid-range,High,810.8235294117648
+Jaipur,Sarang Palace - A Luxury Boutique Hotel,4900.0,8.2,Mid-range,Medium,597.5609756097562
+Jaipur,Ramada By Wyndham Jaipur,5760.0,6.6,Mid-range,Low,872.7272727272727
+Jaipur,"Dera Jaipur - Luxury Heritage Stays in Bani Park, Jaipur",4633.0,8.9,Mid-range,High,520.561797752809
+Jaipur,Holiday Inn Express & Suites Jaipur Gopalpura by IHG,7379.0,8.1,Premium,Medium,910.9876543209876
+Jaipur,TrimHotel Grandview Jaipur,3401.0,8.0,Mid-range,Medium,425.125
+Jaipur,Trimrooms Mount Blue,2519.0,7.7,Budget,Medium,327.1428571428571
+Jaipur,Hotel Arya Niwas,5400.0,8.8,Mid-range,High,613.6363636363636
+Jaipur,Pearl Palace Heritage Boutique Hotel,8500.0,9.3,Premium,High,913.9784946236558
+Jaipur,Hotel Bissau Palace,9680.0,8.4,Premium,Medium,1152.3809523809523
+Jaipur,Hotel Pulse Inn- Near Jaipur Railway Station,1680.0,7.6,Budget,Medium,221.05263157894737
+Jaipur,Shree Nikunj - A Luxury Boutique Homestay in Jaipur,4025.0,9.1,Mid-range,High,442.3076923076923
+Jaipur,"The Fern, Jaipur, Series by Marriott",5250.0,7.6,Mid-range,Medium,690.7894736842105
+Jaipur,AnandMai - Sustainable Living Spaces,2560.0,9.1,Budget,High,281.31868131868134
+Jaipur,Pandya Niwas,1980.0,7.9,Budget,Medium,250.63291139240505
+Jaipur,The Sunder Palace-Jaipur City Centre Hotel,6960.0,8.4,Mid-range,Medium,828.5714285714286
+Jaipur,Laxmi Palace Heritage Boutique Hotel,6435.0,8.3,Mid-range,Medium,775.301204819277
+Jaipur,ASHOK VILLA,4500.0,9.2,Mid-range,High,489.13043478260875
+Jaipur,Dera Rawatsar - Heritage Hotel,8100.0,9.2,Premium,High,880.4347826086957
+Jaipur,Villa Bonita- Luxury Farm Stay Jaipur,11098.0,,Premium,No rating,
